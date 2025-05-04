@@ -63,5 +63,8 @@ plt.show()
 ## Conclusion
 Face recognition using machine learning is a powerful tool with applications in security, authentication, and AI-driven interactions. By leveraging OpenCV, Matplotlib, and Python,
 we can build effective facial recognition systems.
-
+There are datamodels labeled with 92 png files here unable to upload all 
+as well set images , the project code is there to overlap altogether  
+Thanks-😌
+Anshika
 ---
